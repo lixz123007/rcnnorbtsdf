@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/finch/SLAM/src/rcnnorbtsdf/Examples/ROS/ORB_SLAM2/build/devel/setup.sh
